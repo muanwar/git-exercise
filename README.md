@@ -1,1 +1,1 @@
-# git-exercise
+# git-exercise for altcademy
